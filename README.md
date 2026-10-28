@@ -7,7 +7,7 @@ agents that support `SKILL.md`, and are listed on [skills.sh](https://skills.sh)
 npx skills add sarat1669/skills
 ```
 
-## hands-on-onboarding
+## codebase-dojo
 
 Onboards a developer onto an unfamiliar codebase by having them make small, real changes **by hand** while the agent
 navigates. The agent never writes the code.
@@ -27,15 +27,15 @@ Progress is saved in `.onboarding/`, which is ignored only in their clone, so a 
 session.
 
 ```bash
-npx skills add sarat1669/skills --skill hands-on-onboarding
+npx skills add sarat1669/skills --skill codebase-dojo
 ```
 
 Then, in the repo you're new to, ask your agent to "onboard me" or "walk me through this codebase hands-on".
 
 | Path | What it holds |
 |---|---|
-| [`SKILL.md`](skills/hands-on-onboarding/SKILL.md) | The workflow and its rules |
-| [`scripts/recon.sh`](skills/hands-on-onboarding/scripts/recon.sh) | Read-only repo survey (bash; GNU and BSD/macOS userlands) |
-| [`references/touchpoints.md`](skills/hands-on-onboarding/references/touchpoints.md) | Where things live per stack, and how to rank and trace touchpoints |
-| [`references/missions.md`](skills/hands-on-onboarding/references/missions.md) | 13 mission archetypes, a worked route, example briefs |
-| [`assets/`](skills/hands-on-onboarding/assets) | Templates for the progress file and the codebase map |
+| [`SKILL.md`](skills/codebase-dojo/SKILL.md) | The workflow and its rules |
+| [`scripts/recon.sh`](skills/codebase-dojo/scripts/recon.sh) | Read-only repo survey (bash; GNU and BSD/macOS userlands) |
+| [`references/touchpoints.md`](skills/codebase-dojo/references/touchpoints.md) | Where things live per stack, and how to rank and trace touchpoints |
+| [`references/missions.md`](skills/codebase-dojo/references/missions.md) | 13 mission archetypes, a worked route, example briefs |
+| [`assets/`](skills/codebase-dojo/assets) | Templates for the progress file and the codebase map |

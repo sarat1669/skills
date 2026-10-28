@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# recon.sh - read-only survey of a repository for the hands-on-onboarding skill.
+# recon.sh - read-only survey of a repository for the codebase-dojo skill.
 #
 # Usage: bash recon.sh [repo-path] [focus-path ...]
 #   repo-path    any directory inside the repository (default: the current directory)

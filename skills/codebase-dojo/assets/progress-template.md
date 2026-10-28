@@ -1,6 +1,6 @@
 # Onboarding progress: <repo>
 
-<!-- Written by the hands-on-onboarding skill. Never put mission solutions in this file. -->
+<!-- Written by the codebase-dojo skill. Never put mission solutions in this file. -->
 
 - **Developer:** <name or handle> · **Background:** <languages, role> · **Focus:** <area or "whole repo">
 - **Budget:** <quick | standard | deep> · **Branch:** `onboarding/<name>` · **Started:** <YYYY-MM-DD>

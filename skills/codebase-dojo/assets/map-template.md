@@ -1,6 +1,6 @@
 # <repo>: map
 
-<!-- Recon notes, written by the hands-on-onboarding skill in Phase 1. At wrap-up this becomes SUMMARY.md, the
+<!-- Recon notes, written by the codebase-dojo skill in Phase 1. At wrap-up this becomes SUMMARY.md, the
 developer's take-home. Keep every section short; link to file:line rather than quoting code. -->
 
 ## What it is
